@@ -1,4 +1,4 @@
-# Sneakers Shoes Online Shopping Landing Page<br/>
+# Sneakers Shoes Online Shopping Landing Page
 
 ![Sneakers Shoes Online Shopping Landing Page](images/sneakerslandingpage.jpeg)
 
